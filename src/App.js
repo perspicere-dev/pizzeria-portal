@@ -1,5 +1,5 @@
 
-
+import React from 'react';
 
 function App() {
   return (
@@ -14,7 +14,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn Reactzcxcc
         </a>
       </header>
     </div>
